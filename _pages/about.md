@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I was a PhD student at IEOR, UC Berkeley from 2019 to 2024, and I am currently working at Walmart Global Tech as a Senior Data Scientist.
+I am a PhD student at IEOR, UC Berkeley from 2019 to 2024. 
 
 I am very fortunated to be advised by Prof. Zeyu Zheng (https://zheng.ieor.berkeley.edu/) during my PhD life. My research interest is mainly about stochastic simulation, stochastic optimization and data-driven decision making.
 
