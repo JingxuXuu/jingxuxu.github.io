@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Jersey City, New Jersey"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "Jingxu Xu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jingxuxu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,7 +25,7 @@ author:
   name             : "Jingxu Xu"
   pronouns         : # example: "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Jersey City, New Jersey"
   employer         : "Walmart Global Tech"
   uri              : https://jingxuxu.github.io
   email            : "jingxu_xu@berkeley.edu" 
